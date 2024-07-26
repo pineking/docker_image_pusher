@@ -1,1 +1,2 @@
 rabbitmq
+ubuntu:22.04
