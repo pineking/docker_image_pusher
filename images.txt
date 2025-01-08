@@ -1,1 +1,1 @@
-onerahmet/openai-whisper-asr-webservice:v1.7.1
+google/cadvisor
