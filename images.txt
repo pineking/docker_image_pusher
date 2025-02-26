@@ -1,1 +1,1 @@
-ollama/ollama
+arm64v8/ubuntu
