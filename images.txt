@@ -1,1 +1,1 @@
-tensorflow/tensorflow:2.5.0-gpu
+milvusdb/milvus:v2.5.11-gpu
