@@ -1,1 +1,1 @@
-jenkins/jenkins:2.529-jdk21
+jenkins/jenkins:2.516.3-lts-jdk21
