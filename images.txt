@@ -1,1 +1,1 @@
-rednotehilab/dots.ocr:vllm-openai-v0.9.1
+docker pull jenkins/jenkins:2.529-jdk21
