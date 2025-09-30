@@ -1,1 +1,1 @@
-docker pull jenkins/jenkins:2.529-jdk21
+jenkins/jenkins:2.529-jdk21
