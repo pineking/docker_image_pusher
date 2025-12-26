@@ -1,1 +1,1 @@
-jenkins/jenkins:2.516.3-lts-jdk21
+vllm/vllm-openai:v0.13.0
