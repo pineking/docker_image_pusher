@@ -1,1 +1,1 @@
-paddlepaddle/paddle:2.5.1-gpu-cuda12.0-cudnn8.9-trt8.6
+vllm/vllm-openai:nightly
