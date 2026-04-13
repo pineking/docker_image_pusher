@@ -1,18 +1,1 @@
-debian:13.0-slim
-debian:bullseye-slim
-ghcr.io/laude-institute/t-bench/python-3-13:20250620
-ghcr.io/laude-institute/t-bench/python-3-13:latest
-ghcr.io/laude-institute/t-bench/ubuntu-24-04:20250624
-ghcr.io/laude-institute/t-bench/ubuntu-24-04:latest
-ghcr.io/laude-institute/t-bench/ubuntu-24-04:latest@sha256:656c30e5b1e4f0526d5da9a157e69441a52b68314c1426f524fc3389ace9a3ae
-localstack/localstack:4.3
-python:3.10-slim-bookworm
-python:3.11
-python:3.11-slim
-python:3.11-slim@sha256:8fb099199b9f2d70342674bd9dbccd3ed03a258f26bbd1d556822c6dfc60c317
-python:3.11.10-slim
-python:3.13-slim-bookworm
-python:3.8-slim-bookworm
-python:3.9-slim-bookworm
-taichidev/taichi:v0.7.26@sha256:bec1d405e56468c6dd376c18657df699431b20d9064bb0976977faf1c66240b2
-ubuntu:24.04
+ ghcr.io/zeng-weijun/omnidocbench-eval:repro-ubuntu2204
