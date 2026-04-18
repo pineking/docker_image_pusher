@@ -1,1 +1,1 @@
- ghcr.io/zeng-weijun/omnidocbench-eval:repro-ubuntu2204
+slimerl/slime:latest
